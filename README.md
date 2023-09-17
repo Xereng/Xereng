@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @Xereng
 - 👀 I’m interested in Full satck development & Software Development
 - 🌱 I’m currently learning DSA , C & C++ also working on web development
-<img src="https://www.google.com/search?q=anime%20coding%20gif&tbm=isch&hl=en&sa=X&ved=0CBwQtI8BKABqFwoTCMjktJX3sIEDFQAAAAAdAAAAABBR&biw=1519&bih=726#imgrc=7bX5WCU-eEFIkM&imgdii=imjJ3_XDKyScUM" height="40px">
+<img src="https://29129842108c46684a26c427741db074.gif" height="40px">
   
 <!---
 Xereng/Xereng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
