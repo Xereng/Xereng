@@ -1,6 +1,6 @@
 <h2>Hello Threre! <img src="https://github.com/Xereng/Gif/blob/main/29129842108c46684a26c427741db074.gif" height="25px"></h2>
 - 👋 Hi, I’m @Xereng
-<img align="right" src=https://github.com/Xereng/Gif/blob/main/171650766f341c6e9b809184f2b7ee95.gif height="100px"/>
+
 
 - 👀 I’m interested in Full satck development & Software Development
 - 🌱 I’m currently learning DSA , C & C++ also working on web development
