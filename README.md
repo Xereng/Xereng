@@ -2,8 +2,8 @@
 - 👋 Hi, I’m @Xereng
 
 
-- 👀 I’m interested in Full satck development & Software Development
-- 🌱 I’m currently learning DSA , C & C++ also working on web development
+- 👀 I’m interested in Software Development(back-end)
+- 🌱 I’m currently learning DSA , C & C++ , python also working on backend development
 
   
 <!---
