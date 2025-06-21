@@ -2,8 +2,8 @@
 - 👋 Hi, I’m @Xereng
 
 
-- 👀 I’m interested in Software Development(back-end)
-- 🌱 I’m currently learning DSA , C & C++ , python also working on backend development
+- 👀 I’m interested in Software Engineer(back-end)
+- 🌱 I’m currently learning DSA , C++ , python also working on backend development
 
   
 <!---
