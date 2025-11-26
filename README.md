@@ -3,7 +3,7 @@
 
 
 - 👀 I’m interested in Software Engineer(back-end)
-- 🌱 I’m currently learning DSA , C++ , python also working on backend development
+- 🌱 I’m currently learning DSA , C++ , python , Java , also working on backend development
 
   
 <!---
